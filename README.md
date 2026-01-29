@@ -1,7 +1,3 @@
-**serious Ops + Cloud Governance role**, so I’ll structure this exactly like a **job-oriented practice playbook** you can actually prepare from.
-Think **Modules → Key Points → Hands-on → Interview Q&A → Services list**.
-India-focused, aligned to **AWS/Azure Ops + Policy-as-Code + IaC + CI/CD**.
-
 ![Image](https://cdn.prod.website-files.com/644656ba41efb6b601e93ca6/66bba48876d772de51146dcc_AD_4nXfdO3mmGzi9KQaLdSPG8IRLO3na9SvYmzH8JnVysolnw5ohlqCELpMmPwwzr4s4Kfq1BIG7U4jDt5o6SmI-EiJrIcTg7FKSm98ii_lM70iMxxHKFO7Q-ENaOlI_zyNZA5Jn2WJGfzTCBGw4hmnVB340qkM.png)
 
 ![Image](https://miro.medium.com/0%2A85NPhj05H5U4aNuo.png)
